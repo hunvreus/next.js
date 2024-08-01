@@ -3,6 +3,7 @@ content:
     label: Docs
     type: collection
     path: docs
+    filename: "{primary}.mdx"
     fields:
       - name: title
         label: Title
