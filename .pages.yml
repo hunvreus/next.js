@@ -1,0 +1,17 @@
+content:
+  - name: docs
+    label: Docs
+    type: collection
+    path: docs
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: description
+        label: Description
+        type: string
+      - name: body
+        label: Body
+        type: rich-text
+        
